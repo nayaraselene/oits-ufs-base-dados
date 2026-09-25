@@ -2,10 +2,11 @@
 
 ---
 
-| **Status**      | **`proposto`**               |
-| --------------- | ---------------------------- |
-| **Data**        | 23/09/2026                   |
-| **Responsável** | Nayara Selene Pavão Collares |
+| **Status**              | **`proposto`**             |
+| ----------------------- | -------------------------- |
+| **Responsável**         | Núcleo de Dados – OITS-UFS |
+| **Data de atualização** | 23/09/2029                 |
+| **Versão**              | v0.1                       |
 
 ---
 
@@ -84,5 +85,14 @@ Adotar ADRs para decisões com impacto metodológico relevante,
 conforme ADR-002. Adotar versionamento semântico (`v0.1`, `v0.2`)
 para artefatos e dados.
 ```
+
+---
+
+## **Registro de Alterações**
+
+| Versão | Data       | Alteração                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| v0.1   | 23/09/2026 | Criação da ADR-001               | Nayara Pavao |
+| v0.1   | 25/09/2026 | Adição de Registro de Alterações | Nayara Pavao |
 
 ---

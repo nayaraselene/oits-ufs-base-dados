@@ -2,10 +2,11 @@
 
 ---
 
-| **Status**      | **`proposto`**               |
-| --------------- | ---------------------------- |
-| **Data**        | 23/09/2026                   |
-| **Responsável** | Nayara Selene Pavão Collares |
+| **Status**              | **`proposto`**             |
+| ----------------------- | -------------------------- |
+| **Responsável**         | Núcleo de Dados – OITS-UFS |
+| **Data de atualização** | 23/09/2029                 |
+| **Versão**              | v0.1                       |
 
 ---
 
@@ -104,5 +105,14 @@ Adotar a preservação do dado bruto e dos metadados de forma independente dos d
 | `docs/decisions/`   | ADRs                                                   |
 | `docs/methodology/` | Metodologia e catálogo de fontes                       |
 | `docs/selection/`   | Artefatos das etapas de seleção e protocolos por fonte |
+
+---
+
+## **Registro de Alterações**
+
+| Versão | Data       | Alteração                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| v0.1   | 23/09/2026 | Criação da ADR-002               | Nayara Pavao |
+| v0.1   | 25/09/2026 | Adição de Registro de Alterações | Nayara Pavao |
 
 ---
