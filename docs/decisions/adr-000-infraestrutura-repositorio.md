@@ -2,10 +2,11 @@
 
  ---
 
-| **Status**      | **`proposto`**               |
-| --------------- | ---------------------------- |
-| **Data**        | 23/09/2026                   |
-| **Responsável** | Nayara Selene Pavão Collares |
+| **Status**              | **`proposto`**             |
+| ----------------------- | -------------------------- |
+| **Responsável**         | Núcleo de Dados – OITS-UFS |
+| **Data de atualização** | 23/09/2029                 |
+| **Versão**              | v0.1                       |
 
 ---
 
@@ -35,5 +36,14 @@ oits-ufs-base-dados/
 ├── LICENSE                 (termos de uso e distribuição do projeto)
 └── README.md               (porta de entrada e guia de navegação) 
 ```
+
+---
+
+## **Registro de Alterações**
+
+| Versão | Data       | Alteração                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| v0.1   | 23/09/2026 | Criação da ADR-000               | Nayara Pavao |
+| v0.1   | 25/09/2026 | Adição de Registro de Alterações | Nayara Pavao |
 
 ---
