@@ -1,3 +1,18 @@
+# Ignorar dados crus e processados
+data/raw/*
+data/processed/*
+*.csv
+*.parquet
+
+# Ignorar credenciais e variáveis de ambiente
+.env
+credentials.json
+
+# Ignorar ambientes virtuais e caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
