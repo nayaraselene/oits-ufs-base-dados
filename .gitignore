@@ -2,7 +2,6 @@
 data/raw/*
 data/processed/*
 *_wip*
-*.csv
 *.parquet
 
 # Ignorar credenciais e variáveis de ambiente
