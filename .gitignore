@@ -1,6 +1,7 @@
 # Ignorar dados crus e processados
 data/raw/*
 data/processed/*
+*_wip*
 *.csv
 *.parquet
 
